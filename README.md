@@ -1,7 +1,7 @@
 AlarmPi-Image
 =============
  
-[![](https://travis-ci.org/EasyPi/alarmpi-image.svg)](https://travis-ci.org/EasyPi/alarmpi-image)
+[![](https://travis-ci.org/alezap/alarmpi-image.svg)](https://travis-ci.org/alezap/alarmpi-image)
 
 Build ArchLinuxARM Image for RaspberryPi
 
